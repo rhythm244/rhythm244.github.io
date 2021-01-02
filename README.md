@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to rhythm244 page.
 
-You can use the [editor on GitHub](https://github.com/rhythm244/rhythm244.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Hey! I'm interesting in programimg
 
 ### Markdown
 
