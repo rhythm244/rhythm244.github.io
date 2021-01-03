@@ -3,7 +3,7 @@
 |    Order   | Topics                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
 |  01   |  [Homepage](./README.md)      |
-|  02   |  [Preflight](./preflight/preflight.md)  |
+|  02   |  [Aviation](./preflight/preflight.md)  |
 |  03   |  [Google App Script](./google_app_script/onEdit.md)  |
 
 🧡🧡🧡 HAPPY Landing 🧡🧡🧡
