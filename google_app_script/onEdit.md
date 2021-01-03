@@ -1,7 +1,13 @@
-# Example onEdit function in google app script
+# Example onEdit function in google app script.
+
+
+Before you want to use onEdit function you must to trigger the sample trigger in app script. 
+
+![pic1](./pic/../../pic/Trigger.png)
+![pic1](./pic/../../pic/function.png)
 
 ```js
-
+//This is example for 1 Cell change.
 function onThongEdit(e) 
 {
   //สร้างตัวแปรชื่อ sh และเก็บ ชื่อของ sheet ที่ชื่อว่า main ไว้ในตัวแปร
