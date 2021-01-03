@@ -9,11 +9,11 @@
 🧡🧡🧡 HAPPY Landing 🧡🧡🧡
 <div align="Left">
 
-  <h1>Introduction</h1>
+  <h1>Welcome to my page</h1>
 
 </div>
 
-[Day 2 >>](./preflight/preflight.md)
+<!-- example for link file [Day 2 >>](./preflight/preflight.md) -->
 
 <!-- ![30DaysOfPython](./images/30DaysOfPython_banner3@2x.png) -->
 <!--
