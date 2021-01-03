@@ -5,8 +5,6 @@ Hey! I'm interesting in programimg
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
 🧡🧡🧡 HAPPY CODING 🧡🧡🧡
 <div align="center">
 
@@ -18,6 +16,9 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
   <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
   <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
   </a>
+  
+```markdown
+
 Syntax highlighted code block
 
 # Header 1
