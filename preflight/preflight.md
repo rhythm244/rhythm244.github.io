@@ -1,6 +1,6 @@
-<h1>This is for preflight planing</h1>
-
 [Homepage](../README.md)
+
+<h1>Flight planing</h1>
 
 - #### Preflight
   - [weahter](https://aviationweather.com)
