@@ -2,7 +2,7 @@
 
 |   # Order   | Topics                                                    |
 |-----------|:-------------------------------------------------------------------------------------------------------------: |
-|  01   |  [Homepage](./readme.md)      |
+|  01   |  [Homepage](./README.md)      |
 |  02   |  [Pre flight](./preflight/preflight.md)  |
 
 🧡🧡🧡 HAPPY Landing 🧡🧡🧡
@@ -10,7 +10,7 @@
 
   <h1>Introduction</h1>
 
-<div>
+</div>
 
 [Day 2 >>](./preflight/preflight.md)
 
