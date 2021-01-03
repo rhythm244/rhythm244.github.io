@@ -20,6 +20,6 @@
   - [Why Python ?](#why-python-)
 -->
 
-  **This Guide is provide for preflight/postflight planing in avation and other topics**
+  **This Guide is provide for preflight/postflight planning in aviation and other topics**
 
 🎉 Thank you for commimg ! 🎉
