@@ -1,4 +1,4 @@
-#Homepage [](../README.md)
+[Homepage](../README.md)
 
 Example onEdit function in google app script.
 
