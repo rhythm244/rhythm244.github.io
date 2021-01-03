@@ -7,6 +7,17 @@ Hey! I'm interesting in programimg
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
+🧡🧡🧡 HAPPY CODING 🧡🧡🧡
+<div align="center">
+
+  <h1> 30 Days Of Python: Day 1 - Introduction</h1>
+
+  <a class="header-badge" target="_blank" href="https://www.linkedin.com/in/asabeneh/">
+  <img src="https://img.shields.io/badge/style--5eba00.svg?label=LinkedIn&logo=linkedin&style=social">
+  </a>
+  <a class="header-badge" target="_blank" href="https://twitter.com/Asabeneh">
+  <img alt="Twitter Follow" src="https://img.shields.io/twitter/follow/asabeneh?style=social">
+  </a>
 Syntax highlighted code block
 
 # Header 1
