@@ -3,8 +3,9 @@
 <h1>Flight planing</h1>
 
 - #### Preflight
-  - [weahter](https://aviationweather.com)
-  - notam
+  - [Weahter](https://aviationweather.com)
+  - [Notam](https://notamweb.com)
+  - 
   - 3
   - 4
   - 5
