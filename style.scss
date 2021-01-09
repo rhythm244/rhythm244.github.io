@@ -10,7 +10,7 @@
     margin: 0 auto;
 }
 // ส่วนนี้ไม่อยู่ในส่วนของ container
-header {
+header { 
     width: 100%;
     height: 120px;
     background: #000;
@@ -157,5 +157,22 @@ ul.menu li a:hover {
     padding: 0px 12px;
 }
 
+@media only screen and (max-width: 480px) {
+    header {
+        height: auto;
+    }
+    .nav-grid{
+        text-align: center;
+        grid-template-columns: 1fr;
+    }
+
+    ul.menu {
+        grid-template-columns: 1fr;
+    }
+
+    ul.menu li{
+        height: 2.5rem;
+    }
+}
 
 

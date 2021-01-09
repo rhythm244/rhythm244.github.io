@@ -167,4 +167,22 @@ ul.menu li a:hover {
   text-align: right;
   padding: 0px 12px;
 }
+
+@media only screen and (max-width: 480px) {
+  header {
+    height: auto;
+  }
+  .nav-grid {
+    text-align: center;
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  ul.menu {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+  }
+  ul.menu li {
+    height: 2.5rem;
+  }
+}
 /*# sourceMappingURL=style.css.map */
