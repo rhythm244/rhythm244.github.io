@@ -1,9 +1,12 @@
-# Example onEdit function in google app script.
+[Homepage](../README.md)
+
+Example onEdit function in google app script.
 
 
-Before you want to use onEdit function you must to trigger the sample trigger in app script. 
+Before you want to use onEdit function you must to trigger the sample trigger in app script or use Script.app to config it.
 
 ![pic1](./pic/../../pic/Trigger.png)
+and then
 ![pic1](./pic/../../pic/function.png)
 
 ```js
@@ -40,3 +43,16 @@ function onThongEdit(e)
 }
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
