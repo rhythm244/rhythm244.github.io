@@ -177,7 +177,6 @@ footer {
 }
 
 .footer-grid {
-  display: -ms-grid;
   display: grid;
   grid-template-columns: repeat(4, 1fr);
   height: auto;
