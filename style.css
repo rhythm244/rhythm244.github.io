@@ -168,6 +168,34 @@ ul.menu li a:hover {
   padding: 0px 12px;
 }
 
+footer {
+  width: 100%;
+  height: 120px;
+  background: #fff;
+  border-top: 2px solid #40aed7;
+  margin-top: 1rem;
+}
+
+.footer-grid {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (1fr)[4];
+      grid-template-columns: repeat(4, 1fr);
+  height: auto;
+}
+
+.footer-items {
+  margin: 5px;
+}
+
+.footer-items input {
+  width: 5rem;
+}
+
+.btn input {
+  width: 3rem;
+}
+
 @media only screen and (max-width: 480px) {
   header {
     height: auto;
@@ -183,6 +211,29 @@ ul.menu li a:hover {
   }
   ul.menu li {
     height: 2.5rem;
+  }
+  .content-services-grid {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+    justify-items: center;
+  }
+  .content-services-items {
+    text-align: center;
+    width: 85%;
+  }
+  .content-meet {
+    font-size: 48px;
+  }
+  .content-team-grid {
+    -ms-grid-columns: 1fr;
+        grid-template-columns: 1fr;
+    justify-items: center;
+  }
+  .content-team-items {
+    margin: 10px 5px;
+  }
+  .cr {
+    text-align: center;
   }
 }
 /*# sourceMappingURL=style.css.map */
